@@ -8,15 +8,6 @@ import os
 
 #######################################################################################################
 
-hide_streamlit_style = """
-    <style>
-    #MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
-    header {visibility: hidden;}
-    </style>
-"""
-st.markdown(hide_streamlit_style, unsafe_allow_html=True)
-
 st.set_page_config(
     page_title='PSS K3 A',
     page_icon='logo.png',
@@ -56,6 +47,9 @@ bin_str = get_base64('.streamlit/gg.png')
 
 page_bg_img = '''
 <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
     .stApp {
     background-image: url("data:image/png;base64,%s");
     background-size: cover;
