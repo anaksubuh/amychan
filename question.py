@@ -21,7 +21,7 @@ st.set_page_config(
 )
 
 # Load file config
-config = toml.load(".streamlit\config_answer.toml")
+config = toml.load(".streamlit/config.toml")
 
 # Terapkan tema dari config
 st.markdown(
@@ -29,7 +29,7 @@ st.markdown(
     <style>
         .stApp {{
             background-color: {config["theme"]["backgroundColor"]};
-            background-image: url('.streamlit\gg.png');
+            background-image: url('.streamlit/gg.png');
             background-size: cover;
             color: {config["theme"]["textColor"]};
             font-family: {config["theme"]["font"]};
@@ -43,7 +43,7 @@ def get_base64(bin_file):
     with open(bin_file, 'rb') as f:
         data = f.read()
     return base64.b64encode(data).decode()
-bin_str = get_base64('.streamlit\gg.png')
+bin_str = get_base64('.streamlit/gg.png')
 
 page_bg_img = '''
 <style>

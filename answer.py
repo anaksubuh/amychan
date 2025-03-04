@@ -21,7 +21,7 @@ st.set_page_config(
 )
 
 # Load file config
-config = toml.load(".streamlit/config_question.toml")
+config = toml.load(".streamlit/config.toml")
 
 # Terapkan tema dari config
 st.markdown(
