@@ -9,7 +9,7 @@ import os
 #######################################################################################################
 
 st.set_page_config(
-    page_title='Kuisioner PSS K3',
+    page_title='Pengantar Statistik Sosial k3',
     page_icon='logo.png',
     #layout='wide',  
     initial_sidebar_state='expanded',
