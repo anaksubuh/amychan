@@ -8,8 +8,10 @@ import os
 
 #######################################################################################################
 
+st.set_page_config(page_title="PSS K3 A") 
+
 st.set_page_config(
-    page_title='PSS K3 A',
+    page_title='PSS K3',
     page_icon='logo.png',
     #layout='wide',  
     initial_sidebar_state='expanded',
