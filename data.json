@@ -70,5 +70,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "melihat pencapaian yg dimiliki oleh orang lain sehingga menjadi termotivasi untuk bisa lebih unggul dari orang lain"
         }
+    },
+    {
+        "Nama": "Akmal",
+        "Jurusan": "Ilkom ",
+        "Fakultas": "Sosial & politik ",
+        "Universitas": "Tidar",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 4,
+            "pertanyaan4": 4,
+            "pertanyaan5": 4,
+            "pertanyaan6": 4,
+            "pertanyaan7": 4,
+            "pertanyaan8": 4,
+            "pertanyaan9": 3,
+            "pertanyaan10": 4,
+            "pertanyaan11": 2,
+            "pertanyaan12": 3,
+            "pertanyaan13": 4,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Di semangatin"
+        }
     }
 ]
