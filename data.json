@@ -94,5 +94,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Di semangatin"
         }
+    },
+    {
+        "Nama": "Sekar Chanda ",
+        "Jurusan": "hukum",
+        "Fakultas": "fisipol",
+        "Universitas": "universitas tidar ",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 4,
+            "pertanyaan3": 4,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 3,
+            "pertanyaan7": 3,
+            "pertanyaan8": 4,
+            "pertanyaan9": 3,
+            "pertanyaan10": 3,
+            "pertanyaan11": 3,
+            "pertanyaan12": 3,
+            "pertanyaan13": 3,
+            "pertanyaan14": 2,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "dengan mengingat apa yang ingin saya capai "
+        }
     }
 ]
