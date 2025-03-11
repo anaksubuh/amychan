@@ -2,5 +2,5 @@
 backgroundColor="#fdcdd9"
 secondaryBackgroundColor="#ff6b91"
 textColor="#000000"
-font="sanserif"
+font = "sans serif"
 #backgroundImage="bg.png"
