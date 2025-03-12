@@ -166,5 +166,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": ""
         }
+    },
+    {
+        "Nama": "YPR",
+        "Jurusan": "Administrasi Negara",
+        "Fakultas": "Fisipol",
+        "Universitas": "Tidar",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 5,
+            "pertanyaan3": 4,
+            "pertanyaan4": 5,
+            "pertanyaan5": 4,
+            "pertanyaan6": 5,
+            "pertanyaan7": 1,
+            "pertanyaan8": 4,
+            "pertanyaan9": 2,
+            "pertanyaan10": 4,
+            "pertanyaan11": 3,
+            "pertanyaan12": 2,
+            "pertanyaan13": 5,
+            "pertanyaan14": 2,
+            "pertanyaan15": "TIDAK",
+            "pertanyaan16": "Tidak ingin hidup susah, harus jadi wanita mandiri yang bisa apa-apa sendiri tanpa menyusahkan orang lain"
+        }
     }
 ]
