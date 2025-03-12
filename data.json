@@ -310,5 +310,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Dengan menonton video pembelajaran yang menarik"
         }
+    },
+    {
+        "Nama": "Annisa Kurnia ",
+        "Jurusan": "AN",
+        "Fakultas": "FISIPOL ",
+        "Universitas": "TIDAR",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 4,
+            "pertanyaan6": 4,
+            "pertanyaan7": 4,
+            "pertanyaan8": 4,
+            "pertanyaan9": 3,
+            "pertanyaan10": 4,
+            "pertanyaan11": 4,
+            "pertanyaan12": 3,
+            "pertanyaan13": 5,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "ingat orang tua "
+        }
     }
 ]
