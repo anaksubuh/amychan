@@ -238,5 +238,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": ""
         }
+    },
+    {
+        "Nama": "Ferdita dewi lasmini",
+        "Jurusan": "Administrasi negara ",
+        "Fakultas": "Fisip",
+        "Universitas": "Untidar",
+        "Jawaban": {
+            "pertanyaan1": 3,
+            "pertanyaan2": 3,
+            "pertanyaan3": 3,
+            "pertanyaan4": 3,
+            "pertanyaan5": 3,
+            "pertanyaan6": 3,
+            "pertanyaan7": 3,
+            "pertanyaan8": 3,
+            "pertanyaan9": 3,
+            "pertanyaan10": 3,
+            "pertanyaan11": 3,
+            "pertanyaan12": 4,
+            "pertanyaan13": 4,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Semangat aja"
+        }
     }
 ]
