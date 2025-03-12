@@ -190,5 +190,29 @@
             "pertanyaan15": "TIDAK",
             "pertanyaan16": "Tidak ingin hidup susah, harus jadi wanita mandiri yang bisa apa-apa sendiri tanpa menyusahkan orang lain"
         }
+    },
+    {
+        "Nama": "mohamad nasir halim mowavik",
+        "Jurusan": "administrasi negara",
+        "Fakultas": "fisipol",
+        "Universitas": "universitas tidar",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 4,
+            "pertanyaan3": 4,
+            "pertanyaan4": 5,
+            "pertanyaan5": 4,
+            "pertanyaan6": 3,
+            "pertanyaan7": 4,
+            "pertanyaan8": 5,
+            "pertanyaan9": 3,
+            "pertanyaan10": 4,
+            "pertanyaan11": 3,
+            "pertanyaan12": 4,
+            "pertanyaan13": 5,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": ""
+        }
     }
 ]
