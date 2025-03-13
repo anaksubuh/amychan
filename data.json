@@ -382,5 +382,29 @@
             "pertanyaan15": "TIDAK",
             "pertanyaan16": "memperbarui tujuan belajar disetiap harinya"
         }
+    },
+    {
+        "Nama": "hasna",
+        "Jurusan": "administrasi negara",
+        "Fakultas": "fisipol",
+        "Universitas": "untidar",
+        "Jawaban": {
+            "pertanyaan1": 3,
+            "pertanyaan2": 4,
+            "pertanyaan3": 4,
+            "pertanyaan4": 5,
+            "pertanyaan5": 4,
+            "pertanyaan6": 3,
+            "pertanyaan7": 3,
+            "pertanyaan8": 4,
+            "pertanyaan9": 3,
+            "pertanyaan10": 3,
+            "pertanyaan11": 3,
+            "pertanyaan12": 3,
+            "pertanyaan13": 3,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": ""
+        }
     }
 ]
