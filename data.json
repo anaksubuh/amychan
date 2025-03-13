@@ -406,5 +406,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": ""
         }
+    },
+    {
+        "Nama": "isa",
+        "Jurusan": "Administrasi negara",
+        "Fakultas": "FISIPOL",
+        "Universitas": "UNTIDAR",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 5,
+            "pertanyaan3": 5,
+            "pertanyaan4": 3,
+            "pertanyaan5": 3,
+            "pertanyaan6": 5,
+            "pertanyaan7": 5,
+            "pertanyaan8": 5,
+            "pertanyaan9": 5,
+            "pertanyaan10": 5,
+            "pertanyaan11": 4,
+            "pertanyaan12": 4,
+            "pertanyaan13": 4,
+            "pertanyaan14": 4,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "reward"
+        }
     }
 ]
