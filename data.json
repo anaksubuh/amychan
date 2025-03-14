@@ -526,5 +526,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Mendengarkan lagu, travelling, dan melakukan hal yang menyenangkan."
         }
+    },
+    {
+        "Nama": "Vaela Sofia",
+        "Jurusan": "Ilmu Administrasi negara",
+        "Fakultas": "Ilmu sosial dan politik",
+        "Universitas": "Universitas Tidar",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 3,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 4,
+            "pertanyaan7": 5,
+            "pertanyaan8": 5,
+            "pertanyaan9": 3,
+            "pertanyaan10": 3,
+            "pertanyaan11": 2,
+            "pertanyaan12": 4,
+            "pertanyaan13": 4,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Selalu mengingat tujuan,untuk masa depan yang cemerlang\ud83e\udd29"
+        }
     }
 ]
