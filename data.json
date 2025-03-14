@@ -430,5 +430,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "reward"
         }
+    },
+    {
+        "Nama": "Lia Sefiana ",
+        "Jurusan": "Ilmu Administrasi Negara ",
+        "Fakultas": "FISIP",
+        "Universitas": "Untidar ",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 5,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 3,
+            "pertanyaan7": 3,
+            "pertanyaan8": 5,
+            "pertanyaan9": 4,
+            "pertanyaan10": 5,
+            "pertanyaan11": 3,
+            "pertanyaan12": 3,
+            "pertanyaan13": 4,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "1. Selalu mengingat tujuan/ cita-cita "
+        }
     }
 ]
