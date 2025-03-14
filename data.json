@@ -550,5 +550,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Selalu mengingat tujuan,untuk masa depan yang cemerlang\ud83e\udd29"
         }
+    },
+    {
+        "Nama": "indah",
+        "Jurusan": "an",
+        "Fakultas": "fsipol",
+        "Universitas": "tidar",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 4,
+            "pertanyaan7": 4,
+            "pertanyaan8": 3,
+            "pertanyaan9": 3,
+            "pertanyaan10": 3,
+            "pertanyaan11": 4,
+            "pertanyaan12": 3,
+            "pertanyaan13": 4,
+            "pertanyaan14": 4,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "melihat hasil penilaian semester sebelumnya menjadi alat pendorong bagi saya untuk terus belajar dan bisa mendapatkan nilai yang lebih bagus dari semesteter semester sebelumnya"
+        }
     }
 ]
