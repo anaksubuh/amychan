@@ -502,5 +502,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Untuk meningkatkan motivasi belajar, saya mulai dengan menetapkan tujuan yang jelas dan realistis agar arah belajar lebih terarah. Saya menciptakan suasana yang nyaman dengan lingkungan yang rapi dan kondusif, lalu mengatur waktu belajar menggunakan teknik seperti Pomodoro untuk menjaga fokus. Saya juga mengenali gaya belajar yang paling cocok, apakah lebih condong ke visual, audio, atau praktik langsung, lalu menyesuaikan metode belajar dengan itu. Selain itu, saya memberi reward kecil setiap kali mencapai target sebagai bentuk apresiasi diri. Belajar bersama teman atau bergabung dengan kelompok belajar pun menjadi pilihan agar prosesnya lebih menyenangkan. Terakhir, saya selalu mengingat tujuan akhir dan membayangkan hasil yang ingin dicapai agar semangat tetap terjaga.  "
         }
+    },
+    {
+        "Nama": "Syahrani Anggitasari",
+        "Jurusan": "Ilmu Administrasi Negara",
+        "Fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "Universitas": "Universitas Tidar",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 4,
+            "pertanyaan3": 5,
+            "pertanyaan4": 4,
+            "pertanyaan5": 5,
+            "pertanyaan6": 4,
+            "pertanyaan7": 3,
+            "pertanyaan8": 4,
+            "pertanyaan9": 4,
+            "pertanyaan10": 4,
+            "pertanyaan11": 2,
+            "pertanyaan12": 4,
+            "pertanyaan13": 4,
+            "pertanyaan14": 4,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Mendengarkan lagu, travelling, dan melakukan hal yang menyenangkan."
+        }
     }
 ]
