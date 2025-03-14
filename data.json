@@ -454,5 +454,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "1. Selalu mengingat tujuan/ cita-cita "
         }
+    },
+    {
+        "Nama": "Annisa Aulia ",
+        "Jurusan": "ilmu Administrasi Negara",
+        "Fakultas": "Fisipol",
+        "Universitas": "Tidar",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 5,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 3,
+            "pertanyaan7": 3,
+            "pertanyaan8": 5,
+            "pertanyaan9": 4,
+            "pertanyaan10": 5,
+            "pertanyaan11": 5,
+            "pertanyaan12": 5,
+            "pertanyaan13": 5,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "motivasi belajar = inget ukt tinggi"
+        }
     }
 ]
