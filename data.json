@@ -598,5 +598,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "melihat kanan kiri supaya tidak tertinggal, ini yang saat ini saya terapkan"
         }
+    },
+    {
+        "Nama": "Raicita Aulia Syahida",
+        "Jurusan": "Ilmu Administrasi Negara",
+        "Fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "Universitas": "Universitas Tidar",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 4,
+            "pertanyaan4": 3,
+            "pertanyaan5": 4,
+            "pertanyaan6": 4,
+            "pertanyaan7": 5,
+            "pertanyaan8": 4,
+            "pertanyaan9": 3,
+            "pertanyaan10": 4,
+            "pertanyaan11": 2,
+            "pertanyaan12": 3,
+            "pertanyaan13": 3,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Memahami kemampuan dan cara belajar diri sendiri"
+        }
     }
 ]
