@@ -622,5 +622,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Memahami kemampuan dan cara belajar diri sendiri"
         }
+    },
+    {
+        "Nama": "Fatih Yasta",
+        "Jurusan": "AN",
+        "Fakultas": "FISIPOL",
+        "Universitas": "Universitss Tidar",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 4,
+            "pertanyaan4": 4,
+            "pertanyaan5": 5,
+            "pertanyaan6": 3,
+            "pertanyaan7": 3,
+            "pertanyaan8": 4,
+            "pertanyaan9": 3,
+            "pertanyaan10": 3,
+            "pertanyaan11": 3,
+            "pertanyaan12": 3,
+            "pertanyaan13": 5,
+            "pertanyaan14": 4,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "es teh"
+        }
     }
 ]
