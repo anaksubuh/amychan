@@ -646,5 +646,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "es teh"
         }
+    },
+    {
+        "Nama": "Difa Aggreani ",
+        "Jurusan": "AN",
+        "Fakultas": "FISIPOL",
+        "Universitas": "Universitas Tidar",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 4,
+            "pertanyaan7": 5,
+            "pertanyaan8": 5,
+            "pertanyaan9": 4,
+            "pertanyaan10": 5,
+            "pertanyaan11": 4,
+            "pertanyaan12": 4,
+            "pertanyaan13": 5,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "dengan mendengarkan musik "
+        }
     }
 ]
