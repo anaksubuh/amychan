@@ -742,5 +742,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": ""
         }
+    },
+    {
+        "Nama": "Lisa Blackpink",
+        "Jurusan": "Ilmu Administrasi Negara",
+        "Fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "Universitas": "UGM (Universitas Gambar Manuk)/Untidar",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 5,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 5,
+            "pertanyaan7": 5,
+            "pertanyaan8": 5,
+            "pertanyaan9": 4,
+            "pertanyaan10": 4,
+            "pertanyaan11": 3,
+            "pertanyaan12": 3,
+            "pertanyaan13": 5,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": ""
+        }
     }
 ]
