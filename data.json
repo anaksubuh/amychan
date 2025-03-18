@@ -694,5 +694,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Dengan melakukan kegiatan belajar disertai dengan hal-hal yang disukai, seperti mendengarkan musik contohnya."
         }
+    },
+    {
+        "Nama": "Ramzi",
+        "Jurusan": "An",
+        "Fakultas": "Fisip",
+        "Universitas": "untidar",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 4,
+            "pertanyaan4": 5,
+            "pertanyaan5": 4,
+            "pertanyaan6": 4,
+            "pertanyaan7": 3,
+            "pertanyaan8": 5,
+            "pertanyaan9": 5,
+            "pertanyaan10": 3,
+            "pertanyaan11": 4,
+            "pertanyaan12": 4,
+            "pertanyaan13": 4,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": ""
+        }
     }
 ]
