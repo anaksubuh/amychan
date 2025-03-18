@@ -814,5 +814,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": ""
         }
+    },
+    {
+        "Nama": "naniee",
+        "Jurusan": "ilmu administrasi negara",
+        "Fakultas": "FISIPOL",
+        "Universitas": "UNIVERSITAR TIDAR MAGELANG",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 4,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 4,
+            "pertanyaan7": 3,
+            "pertanyaan8": 5,
+            "pertanyaan9": 3,
+            "pertanyaan10": 5,
+            "pertanyaan11": 4,
+            "pertanyaan12": 4,
+            "pertanyaan13": 5,
+            "pertanyaan14": 4,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "HARAPAN ORANG TUA"
+        }
     }
 ]
