@@ -670,5 +670,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "dengan mendengarkan musik "
         }
+    },
+    {
+        "Nama": "Aulia Neza Agustin Febriana ",
+        "Jurusan": "Administrasi Negara ",
+        "Fakultas": "Ilmu Sosial dan Ilmu Politik ",
+        "Universitas": "Universitas Tidar ",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 5,
+            "pertanyaan4": 4,
+            "pertanyaan5": 5,
+            "pertanyaan6": 4,
+            "pertanyaan7": 4,
+            "pertanyaan8": 3,
+            "pertanyaan9": 4,
+            "pertanyaan10": 4,
+            "pertanyaan11": 3,
+            "pertanyaan12": 4,
+            "pertanyaan13": 4,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Dengan melakukan kegiatan belajar disertai dengan hal-hal yang disukai, seperti mendengarkan musik contohnya."
+        }
     }
 ]
