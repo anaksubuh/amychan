@@ -790,5 +790,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Dengan mendengarkan motivasi yang diberikan oleh orang lain"
         }
+    },
+    {
+        "Nama": "Gilang Restu Mahendra",
+        "Jurusan": "Ilmu Administrasi Negara",
+        "Fakultas": "FISIPOL",
+        "Universitas": "Universitas Tidar",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 5,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 4,
+            "pertanyaan7": 4,
+            "pertanyaan8": 5,
+            "pertanyaan9": 5,
+            "pertanyaan10": 4,
+            "pertanyaan11": 5,
+            "pertanyaan12": 5,
+            "pertanyaan13": 5,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": ""
+        }
     }
 ]
