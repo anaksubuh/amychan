@@ -718,5 +718,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": ""
         }
+    },
+    {
+        "Nama": "Nanda Rafif",
+        "Jurusan": "AN",
+        "Fakultas": "FISIP",
+        "Universitas": "Tidar",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 5,
+            "pertanyaan7": 5,
+            "pertanyaan8": 4,
+            "pertanyaan9": 5,
+            "pertanyaan10": 5,
+            "pertanyaan11": 4,
+            "pertanyaan12": 3,
+            "pertanyaan13": 5,
+            "pertanyaan14": 4,
+            "pertanyaan15": "YA",
+            "pertanyaan16": ""
+        }
     }
 ]
