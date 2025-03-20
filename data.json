@@ -1174,5 +1174,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Belajar sesuai yang disukai."
         }
+    },
+    {
+        "Nama": "Muh. Yaser Zulfikar A",
+        "Jurusan": "Bahasa Inggris ",
+        "Fakultas": "FKIP",
+        "Universitas": "Tidar",
+        "Jawaban": {
+            "pertanyaan1": 3,
+            "pertanyaan2": 3,
+            "pertanyaan3": 3,
+            "pertanyaan4": 3,
+            "pertanyaan5": 3,
+            "pertanyaan6": 3,
+            "pertanyaan7": 3,
+            "pertanyaan8": 3,
+            "pertanyaan9": 3,
+            "pertanyaan10": 4,
+            "pertanyaan11": 2,
+            "pertanyaan12": 3,
+            "pertanyaan13": 5,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Memprioritaskan hal hal yang penting terlebih dahulu"
+        }
     }
 ]
