@@ -1126,5 +1126,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Memahami bagaimana cara belajar yang efektif untuk dilakukan, melihat bagaimana perkembangan belajar orang lain sebagai sumber motivasi."
         }
+    },
+    {
+        "Nama": "Johanes septiawan",
+        "Jurusan": "Elektro",
+        "Fakultas": "Teknik elektro",
+        "Universitas": "Untidar",
+        "Jawaban": {
+            "pertanyaan1": 2,
+            "pertanyaan2": 2,
+            "pertanyaan3": 3,
+            "pertanyaan4": 3,
+            "pertanyaan5": 3,
+            "pertanyaan6": 2,
+            "pertanyaan7": 3,
+            "pertanyaan8": 1,
+            "pertanyaan9": 2,
+            "pertanyaan10": 3,
+            "pertanyaan11": 1,
+            "pertanyaan12": 1,
+            "pertanyaan13": 5,
+            "pertanyaan14": 4,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Ketika saya memperlukan modul atau pelajaran atau ilmu tersebut , maka saya baru akan belajar dan mendalaminya (JIKA DI PERLUKAN)"
+        }
     }
 ]
