@@ -838,5 +838,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "HARAPAN ORANG TUA"
         }
+    },
+    {
+        "Nama": "Mutdiyah Retno Ambarwati",
+        "Jurusan": "Administrasi Negara",
+        "Fakultas": "Fisipol",
+        "Universitas": "Tidar",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 4,
+            "pertanyaan4": 4,
+            "pertanyaan5": 4,
+            "pertanyaan6": 4,
+            "pertanyaan7": 3,
+            "pertanyaan8": 4,
+            "pertanyaan9": 3,
+            "pertanyaan10": 4,
+            "pertanyaan11": 3,
+            "pertanyaan12": 4,
+            "pertanyaan13": 3,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Dengan membuat target yang ingin kita capai dan menghindari ditraksi "
+        }
     }
 ]
