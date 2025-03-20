@@ -910,5 +910,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": ""
         }
+    },
+    {
+        "Nama": "Nilna Najwa Ulinnuha",
+        "Jurusan": "Teknik Elektro",
+        "Fakultas": "Teknik",
+        "Universitas": "Tidar",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 4,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 3,
+            "pertanyaan7": 4,
+            "pertanyaan8": 4,
+            "pertanyaan9": 4,
+            "pertanyaan10": 4,
+            "pertanyaan11": 5,
+            "pertanyaan12": 3,
+            "pertanyaan13": 4,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "biasanya dengan membuat reward, kaya kalau nanti tugas selesai aku bakal nonton ini, atau masak ini, gitu"
+        }
     }
 ]
