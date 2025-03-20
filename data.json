@@ -982,5 +982,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Memulai nya dari diri sendiri, karena jika sudah termotivasi untuk jadi manusia lebih baik lagi. Maka kesuksesan akan ada didepan matanya...semua tergantung diri sendiri dan mau seperti apa cara ia berjalan "
         }
+    },
+    {
+        "Nama": "Sekar Ayu Wulansari",
+        "Jurusan": "Pendidikan Matematika",
+        "Fakultas": "FKIP",
+        "Universitas": "Tidar",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 4,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 4,
+            "pertanyaan7": 4,
+            "pertanyaan8": 4,
+            "pertanyaan9": 3,
+            "pertanyaan10": 3,
+            "pertanyaan11": 3,
+            "pertanyaan12": 5,
+            "pertanyaan13": 4,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "dengan cara melihat persaingan akademik teman\" yang lain dan merasa tertantang untuk mengerjakan soal yang sulit"
+        }
     }
 ]
