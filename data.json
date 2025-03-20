@@ -862,5 +862,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Dengan membuat target yang ingin kita capai dan menghindari ditraksi "
         }
+    },
+    {
+        "Nama": "Fiki",
+        "Jurusan": "Peternakan ",
+        "Fakultas": "Pertanian ",
+        "Universitas": "Tidar",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 3,
+            "pertanyaan3": 4,
+            "pertanyaan4": 4,
+            "pertanyaan5": 5,
+            "pertanyaan6": 4,
+            "pertanyaan7": 4,
+            "pertanyaan8": 3,
+            "pertanyaan9": 3,
+            "pertanyaan10": 3,
+            "pertanyaan11": 3,
+            "pertanyaan12": 4,
+            "pertanyaan13": 4,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": ""
+        }
     }
 ]
