@@ -1006,5 +1006,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "dengan cara melihat persaingan akademik teman\" yang lain dan merasa tertantang untuk mengerjakan soal yang sulit"
         }
+    },
+    {
+        "Nama": "Isma ",
+        "Jurusan": "Ilmu administrasi negara ",
+        "Fakultas": "Fisipol",
+        "Universitas": "Tidar magelang",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 4,
+            "pertanyaan7": 4,
+            "pertanyaan8": 4,
+            "pertanyaan9": 4,
+            "pertanyaan10": 4,
+            "pertanyaan11": 3,
+            "pertanyaan12": 4,
+            "pertanyaan13": 5,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Selalu bangga pada diri sendiri dan memperbaiki diri "
+        }
     }
 ]
