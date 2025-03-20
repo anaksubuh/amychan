@@ -886,5 +886,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": ""
         }
+    },
+    {
+        "Nama": "A",
+        "Jurusan": "Elektro ",
+        "Fakultas": "Teknik ",
+        "Universitas": "Untid",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 5,
+            "pertanyaan3": 4,
+            "pertanyaan4": 2,
+            "pertanyaan5": 3,
+            "pertanyaan6": 5,
+            "pertanyaan7": 4,
+            "pertanyaan8": 3,
+            "pertanyaan9": 4,
+            "pertanyaan10": 4,
+            "pertanyaan11": 3,
+            "pertanyaan12": 3,
+            "pertanyaan13": 3,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": ""
+        }
     }
 ]
