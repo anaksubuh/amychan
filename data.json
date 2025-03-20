@@ -1030,5 +1030,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Selalu bangga pada diri sendiri dan memperbaiki diri "
         }
+    },
+    {
+        "Nama": "Cindy Carolina",
+        "Jurusan": "Ilmu Administrasi Negara",
+        "Fakultas": "FISIPOL",
+        "Universitas": "Tidar",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 4,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 5,
+            "pertanyaan7": 5,
+            "pertanyaan8": 5,
+            "pertanyaan9": 3,
+            "pertanyaan10": 4,
+            "pertanyaan11": 4,
+            "pertanyaan12": 4,
+            "pertanyaan13": 4,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": ""
+        }
     }
 ]
