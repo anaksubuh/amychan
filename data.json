@@ -1342,5 +1342,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Selalu mengingat bahwa ada tujuan yg harus dicapai"
         }
+    },
+    {
+        "Nama": "Lila Novia Nurfitria ",
+        "Jurusan": "Agroteknologi ",
+        "Fakultas": "Pertanian ",
+        "Universitas": "Tidar ",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 5,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 5,
+            "pertanyaan7": 5,
+            "pertanyaan8": 5,
+            "pertanyaan9": 4,
+            "pertanyaan10": 4,
+            "pertanyaan11": 4,
+            "pertanyaan12": 5,
+            "pertanyaan13": 5,
+            "pertanyaan14": 4,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Dengan cara menentukan tujuan dengan jelas dan membuat motivasi dari dalam diri sendiri"
+        }
     }
 ]
