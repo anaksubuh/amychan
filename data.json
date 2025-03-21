@@ -1246,5 +1246,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "dengan menetapkan tujuan yang jelas, lalu bergaul dan berteman dengan orang yang positif, serta mengatur jadwal antara belajar dan main"
         }
+    },
+    {
+        "Nama": "ipeh",
+        "Jurusan": "D3 akuntansi",
+        "Fakultas": "Ekonomi",
+        "Universitas": "Universitas tidar",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 5,
+            "pertanyaan3": 5,
+            "pertanyaan4": 3,
+            "pertanyaan5": 3,
+            "pertanyaan6": 3,
+            "pertanyaan7": 5,
+            "pertanyaan8": 5,
+            "pertanyaan9": 5,
+            "pertanyaan10": 5,
+            "pertanyaan11": 5,
+            "pertanyaan12": 5,
+            "pertanyaan13": 4,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": ""
+        }
     }
 ]
