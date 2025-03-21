@@ -1198,5 +1198,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Memprioritaskan hal hal yang penting terlebih dahulu"
         }
+    },
+    {
+        "Nama": "zulfa s",
+        "Jurusan": "AN",
+        "Fakultas": "Fisipol",
+        "Universitas": "Tidar",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 2,
+            "pertanyaan3": 4,
+            "pertanyaan4": 4,
+            "pertanyaan5": 2,
+            "pertanyaan6": 4,
+            "pertanyaan7": 2,
+            "pertanyaan8": 4,
+            "pertanyaan9": 2,
+            "pertanyaan10": 4,
+            "pertanyaan11": 4,
+            "pertanyaan12": 3,
+            "pertanyaan13": 4,
+            "pertanyaan14": 2,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "liat orang pada pinter\""
+        }
     }
 ]
