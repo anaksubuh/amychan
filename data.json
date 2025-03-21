@@ -1294,5 +1294,29 @@
             "pertanyaan15": "TIDAK",
             "pertanyaan16": ""
         }
+    },
+    {
+        "Nama": "adi yakup ayuhan",
+        "Jurusan": "Teknik",
+        "Fakultas": "Ilmu kebengkelan",
+        "Universitas": "Salon mobil\ud83d\ude2d",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 3,
+            "pertanyaan3": 3,
+            "pertanyaan4": 3,
+            "pertanyaan5": 5,
+            "pertanyaan6": 4,
+            "pertanyaan7": 5,
+            "pertanyaan8": 3,
+            "pertanyaan9": 3,
+            "pertanyaan10": 3,
+            "pertanyaan11": 4,
+            "pertanyaan12": 3,
+            "pertanyaan13": 5,
+            "pertanyaan14": 4,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Tidak tau dan tidak ingin tau adalah sesuatu yang membuat saya ingin tau"
+        }
     }
 ]
