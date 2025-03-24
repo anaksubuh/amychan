@@ -1486,5 +1486,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "dengan mempunyai pola pikir dengan motivasi belajar yang baik saya akan mendapatkan hasil yang baik serta mendapatkan apresiasi yang baik pula"
         }
+    },
+    {
+        "Nama": "Rifqi Faza Ardiansyah",
+        "Jurusan": "Jurusan ilmu komputer prodi Sistem Informasi",
+        "Fakultas": "FMIPA",
+        "Universitas": "UNNES",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 5,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 3,
+            "pertanyaan7": 4,
+            "pertanyaan8": 5,
+            "pertanyaan9": 3,
+            "pertanyaan10": 5,
+            "pertanyaan11": 5,
+            "pertanyaan12": 4,
+            "pertanyaan13": 5,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Dengan memiliki tujuan yang pasti dan meninggalkan hal hal yang berdasar keinginan/tidak berguna/membuang-buang waktu"
+        }
     }
 ]
