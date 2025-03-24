@@ -1414,5 +1414,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Biasanya saya lihat youtube untuk meningkatkan motivasi saya dengan melihat konten study with me nah dengan melihat konten tersebut biasanya ada keinginan untuk belajar yang tinggi"
         }
+    },
+    {
+        "Nama": "Zulva ",
+        "Jurusan": "Administrasi Negara ",
+        "Fakultas": "Ilmu Sosial dan Politik ",
+        "Universitas": "Tidar",
+        "Jawaban": {
+            "pertanyaan1": 5,
+            "pertanyaan2": 5,
+            "pertanyaan3": 5,
+            "pertanyaan4": 5,
+            "pertanyaan5": 5,
+            "pertanyaan6": 5,
+            "pertanyaan7": 4,
+            "pertanyaan8": 5,
+            "pertanyaan9": 3,
+            "pertanyaan10": 3,
+            "pertanyaan11": 4,
+            "pertanyaan12": 5,
+            "pertanyaan13": 5,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Dengan mengingat lagi harapan yang ingin dicapai dan dengan nasihat orang tua "
+        }
     }
 ]
