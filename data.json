@@ -1534,5 +1534,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Menurut Saya, cara untuk meningkatkan motivasi belajar adalah dengan mempunyai tujuan yang jelas dalam kuliah."
         }
+    },
+    {
+        "Nama": "Irfan Muzaky",
+        "Jurusan": "Akuntansi Perpajakan",
+        "Fakultas": "Sekolah Vokasi",
+        "Universitas": "Diponegoro",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 3,
+            "pertanyaan3": 4,
+            "pertanyaan4": 4,
+            "pertanyaan5": 4,
+            "pertanyaan6": 3,
+            "pertanyaan7": 3,
+            "pertanyaan8": 3,
+            "pertanyaan9": 4,
+            "pertanyaan10": 4,
+            "pertanyaan11": 3,
+            "pertanyaan12": 4,
+            "pertanyaan13": 4,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Menurut saya, bisa dilakukan dengan beberapa cara, yaitu:\n1.Menetapkan tujuan yang jelas, \n2.Mecari sumber belajar yang menarik(video interaktif), \n3.Membuat jadwal&rutinitas, \n4.Menciptakan lingkungan belajar yang nyaman, dan\n5.Mencari teman belajar(agar lebih menyenangkan). "
+        }
     }
 ]
