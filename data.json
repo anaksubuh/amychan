@@ -1438,5 +1438,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Dengan mengingat lagi harapan yang ingin dicapai dan dengan nasihat orang tua "
         }
+    },
+    {
+        "Nama": "Rani",
+        "Jurusan": "Administrasi Negara",
+        "Fakultas": "Ilmu sosial dan Politik",
+        "Universitas": "Universitas Tidar",
+        "Jawaban": {
+            "pertanyaan1": 3,
+            "pertanyaan2": 4,
+            "pertanyaan3": 4,
+            "pertanyaan4": 3,
+            "pertanyaan5": 4,
+            "pertanyaan6": 3,
+            "pertanyaan7": 3,
+            "pertanyaan8": 4,
+            "pertanyaan9": 3,
+            "pertanyaan10": 4,
+            "pertanyaan11": 3,
+            "pertanyaan12": 4,
+            "pertanyaan13": 3,
+            "pertanyaan14": 2,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "belajar didampingi"
+        }
     }
 ]
