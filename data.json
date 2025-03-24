@@ -1366,5 +1366,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Dengan cara menentukan tujuan dengan jelas dan membuat motivasi dari dalam diri sendiri"
         }
+    },
+    {
+        "Nama": "Hana",
+        "Jurusan": "Ilkom ",
+        "Fakultas": "fisip ",
+        "Universitas": "untidar ",
+        "Jawaban": {
+            "pertanyaan1": 3,
+            "pertanyaan2": 3,
+            "pertanyaan3": 3,
+            "pertanyaan4": 3,
+            "pertanyaan5": 3,
+            "pertanyaan6": 3,
+            "pertanyaan7": 4,
+            "pertanyaan8": 4,
+            "pertanyaan9": 3,
+            "pertanyaan10": 3,
+            "pertanyaan11": 4,
+            "pertanyaan12": 3,
+            "pertanyaan13": 5,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "mengingat tujuan saya pergi merantau untuk apa, itu adalah motivasi saya ketika malas belajr "
+        }
     }
 ]
