@@ -1582,5 +1582,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "menjadi lebih baik dari yang kemarin"
         }
+    },
+    {
+        "Nama": "Muhamad Muflihun",
+        "Jurusan": "Bahasa dan Sastra Indonesia",
+        "Fakultas": "Ilmu Budaya",
+        "Universitas": "Gadjah Mada",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 5,
+            "pertanyaan4": 4,
+            "pertanyaan5": 5,
+            "pertanyaan6": 4,
+            "pertanyaan7": 3,
+            "pertanyaan8": 5,
+            "pertanyaan9": 4,
+            "pertanyaan10": 4,
+            "pertanyaan11": 3,
+            "pertanyaan12": 3,
+            "pertanyaan13": 4,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Melihat orang tua yang ada di rumah. Semakin saya menganggap mereka sebagai pahlawan, semakin saya ingin menjadi pahlawan juga bagi mereka"
+        }
     }
 ]
