@@ -1630,5 +1630,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": "Ingat ada orang yang selalu mendoakanmu di setiap sujudnya.. "
         }
+    },
+    {
+        "Nama": "AZZAT ALIFAN ULYA",
+        "Jurusan": "TEKNIK SIPIL",
+        "Fakultas": "FAKULTAS TEKNIK",
+        "Universitas": "UNIVERSITAS TIDAR",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 5,
+            "pertanyaan3": 5,
+            "pertanyaan4": 4,
+            "pertanyaan5": 5,
+            "pertanyaan6": 5,
+            "pertanyaan7": 3,
+            "pertanyaan8": 4,
+            "pertanyaan9": 2,
+            "pertanyaan10": 5,
+            "pertanyaan11": 1,
+            "pertanyaan12": 3,
+            "pertanyaan13": 4,
+            "pertanyaan14": 5,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Menargetkan goal tertentu\n"
+        }
     }
 ]
