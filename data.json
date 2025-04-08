@@ -1726,5 +1726,29 @@
             "pertanyaan15": "YA",
             "pertanyaan16": ""
         }
+    },
+    {
+        "Nama": "Salsa Triya Ningrum",
+        "Jurusan": "Ilmu Administrasi Negara ",
+        "Fakultas": "Ilmu Sosial dan Politik",
+        "Universitas": "Universitas Tidar ",
+        "Jawaban": {
+            "pertanyaan1": 4,
+            "pertanyaan2": 4,
+            "pertanyaan3": 5,
+            "pertanyaan4": 4,
+            "pertanyaan5": 5,
+            "pertanyaan6": 4,
+            "pertanyaan7": 4,
+            "pertanyaan8": 4,
+            "pertanyaan9": 4,
+            "pertanyaan10": 4,
+            "pertanyaan11": 3,
+            "pertanyaan12": 4,
+            "pertanyaan13": 4,
+            "pertanyaan14": 3,
+            "pertanyaan15": "YA",
+            "pertanyaan16": "Diskusi"
+        }
     }
 ]
